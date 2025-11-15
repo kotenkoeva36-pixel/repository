@@ -7,8 +7,8 @@ int main()
 	SetConsoleOutputCP(1251);
 
 	double a;
-	cout << "Введіть тризначне число a: ";
-	cin >> a;
+	cout << "Введіть тризначне число a: ";//Вивід тексту
+	cin >> a;//Зчитування числа яке ввели
 	int b1, b2;
 	b1 = int(a) / 100; //C
 	b2 = static_cast<int>(a) / 100; //C++
