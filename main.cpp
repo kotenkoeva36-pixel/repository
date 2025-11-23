@@ -4,8 +4,6 @@
 using namespace std;
 int main()
 {
-    SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);// Це використовується для того, щоб використовувати кирилицю
 
     int a = 3, c = 5;
     double b = sqrt(c * c - a * a);
