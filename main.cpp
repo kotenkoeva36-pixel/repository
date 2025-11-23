@@ -11,5 +11,8 @@ int main()
     cout << "Катет b = " << b << endl;
     cout << "Площа  S = " << S << endl;
     return 0;
+    ejrhgerrcrhbvh
+        njownhvhv
+        evnjvjv
 }
 
